@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OS-Hacker
+- 👋 Hi, I’m Om Shinde
 - 👀 I’m interested in coding , traveling and exploring new things
 - 🌱 I’m currently learning chhatrapati sambhaji nagar
 - 💞️ I’m looking to collaborate on Creating open-source projects that solve real-world problems
