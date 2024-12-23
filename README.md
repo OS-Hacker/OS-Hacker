@@ -4,7 +4,7 @@ I'm **Om Shinde**.
 
 ## 👀 About Me
 - **Interests:** Coding, traveling, and exploring new things
-- **Currently Learning:** Chhatrapati Sambhaji Nagar
+- **Currently living:** Chhatrapati Sambhaji Nagar
 - **Looking to Collaborate On:** Creating open-source projects that solve real-world problems
 - **Fun Fact:** ...
 
