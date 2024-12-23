@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Om Shinde
-- 👀 I’m interested in coding , traveling and exploring new things
-- 🌱 I’m currently learning chhatrapati sambhaji nagar
-- 💞️ I’m looking to collaborate on Creating open-source projects that solve real-world problems
-- 📫 How to reach me LinkedIn : linkedin.com/in/omshinde96
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+# 👋 Hi there!
+
+I'm **Om Shinde**.
+
+## 👀 About Me
+- **Interests:** Coding, traveling, and exploring new things
+- **Currently Learning:** Chhatrapati Sambhaji Nagar
+- **Looking to Collaborate On:** Creating open-source projects that solve real-world problems
+- **Fun Fact:** ...
+
+## 🌐 Connect with Me
+- **LinkedIn:** [Om Shinde](https://linkedin.com/in/omshinde96)
+- **Pronouns:** He/Him
 
 <!---
 OS-Hacker/OS-Hacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
